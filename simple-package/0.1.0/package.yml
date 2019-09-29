@@ -1,0 +1,8 @@
+# Simple package
+
+name: simple-package 
+parent: default
+
+matches:
+  - trigger: ":hw"
+    replace: "hello world"

@@ -1,4 +1,8 @@
-# espanso-package-example
-An example on how to create an espanso package.
-
-For more information, read the [documentation](https://espanso.org/docs/)
+---
+package_name: "spanish-accent"
+package_title: "Spanish Accent"
+package_desc: "A package to type Spanish with almost every keyboard."
+package_version: "0.1.0"
+package_author: "Jorge Acosta"
+package_repo: "https://github.com/CorentinDy/espanso-package-romanian-accent"
+---

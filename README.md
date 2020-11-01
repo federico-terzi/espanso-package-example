@@ -11,7 +11,7 @@ Package for [#espanso](https://espanso.org/) - Cross-platform Text Expander writ
 2. Install [#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) from a repository with following command:
 
 ```
-espanso install espanso-utility https://github.com/pietrzak-pro/espanso-utility\ --external --external
+espanso install espanso-utility https://github.com/pietrzak-pro/espanso-utility --external
 ```
 
 ## Triggers

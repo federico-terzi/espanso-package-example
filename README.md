@@ -23,16 +23,16 @@ espanso install espanso-utility https://github.com/pietrzak-pro/espanso-utility 
 ## Progress
 
 - [ ] __#version/0/0/1__
-> - [x] Fork [#espanso](https://espanso.org/) repository
-> - [x] Prepare initial configuration in [Readme.md](espanso-utility/README.md)
-> - [x] Configure package structure in [package.yml](0.1.0/package.yml)
-> - [x] Prepare gitflow
-> - [x] Add `:#hw` test trigger
-> - [x] Add `:#espanso and :#espanso/utility` triggers
-> - [ ] Add `:#date` trigger
-> - [ ] Add `:#datetime` trigger
-> - [ ] Add `:#updated/documentation` trigger
-> - [ ] Update documentation for new triggers
+    - [x] Fork [#espanso](https://espanso.org/) repository
+    - [x] Prepare initial configuration in [Readme.md](espanso-utility/README.md)
+    - [x] Configure package structure in [package.yml](0.1.0/package.yml)
+    - [x] Prepare gitflow
+    - [x] Add `:#hw` test trigger
+    - [x] Add `:#espanso and :#espanso/utility` triggers
+    - [ ] Add `:#date` trigger
+    - [ ] Add `:#datetime` trigger
+    - [ ] Add `:#updated/documentation` trigger
+    - [ ] Update documentation for new triggers
 
 ## FAQ
 

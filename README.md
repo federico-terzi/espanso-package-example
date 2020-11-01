@@ -2,7 +2,7 @@
 
 [#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) loves [#programmers](https://en.wikipedia.org/wiki/Programmer)
 
-Package for [#espanso](https://espanso.org/) - Cross-platform Text Expander written in [#rust](https://www.rust-lang.org/). For more information, read the [#documentation](https://espanso.org/docs/).
+Utility package for [#espanso](https://espanso.org/) - Cross-platform Text Expander written in [#rust](https://www.rust-lang.org/). For more information, read the [#documentation](https://espanso.org/docs/).
 
 ## Instalation
 
@@ -16,9 +16,9 @@ espanso install espanso-utility https://github.com/pietrzak-pro/espanso-utility 
 
 ## Triggers
 
-| Trigger | Replace | Status |
-| --- | --- | --- |
-| :#hw | [#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) loves [#programmers](https://en.wikipedia.org/wiki/Programmer) | done |
+| Trigger | Replace | Version | Status |
+| --- | --- | --- | --- |
+| :#hw | [#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) loves [#programmers](https://en.wikipedia.org/wiki/Programmer) | >= 0.1.0 | done |
 
 ## Progress
 
@@ -31,6 +31,7 @@ espanso install espanso-utility https://github.com/pietrzak-pro/espanso-utility 
 > - [x] Add `:#espanso and :#espanso/utility` triggers
 > - [ ] Add `:#date` trigger
 > - [ ] Add `:#datetime` trigger
+> - [ ] Add `:#updated/documentation` trigger
 > - [ ] Update documentation for new triggers
 
 ## FAQ

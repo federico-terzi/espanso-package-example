@@ -27,9 +27,10 @@ espanso install espanso-utility https://github.com/pietrzak-pro/espanso-utility 
 > - [x] Prepare initial configuration in [Readme.md](espanso-utility/README.md)
 > - [x] Configure package structure in [package.yml](0.1.0/package.yml)
 > - [x] Prepare gitflow
-> - [x] Write :#\hw formatter
-> - [ ] Write :#\date formatter
-> - [ ] Update documentation for :\#date formatter
+> - [x] Add `:\#hw` trigger
+> - [ ] Add `:\#date` trigger
+> - [ ] Add `:\#datetime` trigger
+> - [ ] Update documentation for new triggers
 
 ## License
 [#espanso](https://espanso.org/) was created by [#people/federico_terzi](http://federicoterzi.com/) and is licensed under the [#license/gpl/3.0](https://github.com/federico-terzi/espanso/blob/master/LICENSE). The same license applies to [#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) package.

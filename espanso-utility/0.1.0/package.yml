@@ -1,8 +1,8 @@
 # Simple package
 
-name: simple-package 
+name: simple-package
 parent: default
 
 matches:
-  - trigger: ":hw"
-    replace: "hello world"
+  - trigger: ":#hw"
+    replace: "[#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) loves [#programmers](https://en.wikipedia.org/wiki/Programmer)"

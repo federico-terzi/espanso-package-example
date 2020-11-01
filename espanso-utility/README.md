@@ -6,4 +6,4 @@ package_version: "0.1.0"
 package_author: "peetbool"
 package_repo: "https://github.com/pietrzak-pro/espanso-utility"
 ---
-With #love for #developers.
+[#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) loves [#programmers](https://en.wikipedia.org/wiki/Programmer)

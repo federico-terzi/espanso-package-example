@@ -1,6 +1,6 @@
 # espanso-utility
 
-With [#love](https://en.wikipedia.org/wiki/Love) for [#programmers](https://en.wikipedia.org/wiki/Programmer).
+[#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) loves [#programmers](https://en.wikipedia.org/wiki/Programmer)
 
 Package for [#espanso](https://espanso.org/) - Cross-platform Text Expander written in [#rust](https://www.rust-lang.org/). For more information, read the [#documentation](https://espanso.org/docs/).
 
